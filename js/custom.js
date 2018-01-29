@@ -100,9 +100,9 @@ $(document).ready(function(){
 
 
 
-// $('p').hide();
+$('.list').hide();
   
-$('#salad').click(function(){
+$('#salad , #cakes , #coffee').click(function(){
 
   $('.list').slideToggle();
   
