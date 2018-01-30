@@ -158,6 +158,7 @@ img{
 	padding-top: 50px;
 	font-weight: bold;
 	font-size: 30px;
+	color:#3B0B0B;
 
 }
 .slick-prev{
@@ -219,14 +220,26 @@ img{
 }
 .description >h3{
 	text-align: center;
+
    
 }
 .description >p{
 	font-size: 20px;
 	text-align: center;
 	padding-top: 20px;
+	line-height: 40px;
+}
+.description1 > h1{
+	color:#8A0808;
 }
 
+.description1 >h3{
+	line-height: 30px;
+}
+.time {
+	line-height: 50px;
+	margin-top: 60px;
+}
 .footer2{
 	height: 500px;
 	background-color: gray;
